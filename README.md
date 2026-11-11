@@ -1,6 +1,6 @@
-# Cripteus
+# About
 
-Cripteus is a Prototype Code Generator, with capability to generate a code of the width desired by the user.
+Cripteus is a Begginer Prototype Code Generator, with capability to generate a code of the width desired by the user.
 
 # Current Language
 
